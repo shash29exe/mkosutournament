@@ -53,6 +53,10 @@ tbody tr:nth-child(even) {
     vertical-align: middle;
 }
 
+.t-link {
+    color: inherit;
+}
+
 .video-background video {
     position: fixed;
     top: 0;

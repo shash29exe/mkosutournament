@@ -78,6 +78,13 @@ tbody tr:nth-child(even) {
     z-index: -1;
 }
 
+.t-hr {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
 @media (max-width: 768px) {
     body {
         padding: 10px 5px;

@@ -83,6 +83,21 @@ tbody tr:nth-child(even) {
     margin-bottom: 2px;
     margin-left: 10vw;
     margin-right: 10vw;
+    color: #444;
+}
+
+.brackets-img {
+    padding-top: 20px;
+    width: 50vw;
+    cursor: pointer;
+}
+
+.navigation {
+    padding-bottom: 50px;
+}
+
+.navigation a {
+    color: inherit;
 }
 
 @media (max-width: 768px) {
@@ -112,5 +127,9 @@ tbody tr:nth-child(even) {
     .t-link-logo img {
         width: 20px;
         height: 20px;
+    }
+
+    .brackets-img {
+        width: 90vw;
     }
 }
